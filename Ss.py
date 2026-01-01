@@ -1,7 +1,7 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-SESSION_ID = "PASTE_YOUR_SESSIONID_HERE"
+SESSION_ID = "79953061948%3AH0kSHXksRAcfeJ%3A9%3AAYjK4w3ejAVlQ-W-hHsT5WKR2FKd4UmxHDnHN9UP5w"
 
 async def main():
     async with async_playwright() as p:
